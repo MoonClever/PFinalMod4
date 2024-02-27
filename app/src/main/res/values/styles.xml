@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="errorTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="warningTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/blue</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="successTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/green</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="TitleTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+
+    <style name="CompTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+    <style name="sendButton" parent="Widget.AppCompat.Button">
+        <item name="android:text">@string/send</item>
+        <item name="android:backgroundTint">@color/green</item>
+        <item name="android:textSize">22sp</item>
+        <item name="android:layout_marginTop">15dp</item>
+    </style>
+
+</resources>

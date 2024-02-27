@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">PFinalMod4</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="send">Enviar datos</string>
+    <string name="hint_editText">Ingrese datos</string>
+    <string name="title">Ingrese sus datos</string>
 </resources>
